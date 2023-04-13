@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+}
+
+tr {float: left; width: 50%;}
+
+p {padding: 100px; text-align: center; color: black; font-size: 40px; font-family: sans-serif;}
+
+#Fire
+{background-color: red;}
+
+#Water
+{background-color: blue;}
