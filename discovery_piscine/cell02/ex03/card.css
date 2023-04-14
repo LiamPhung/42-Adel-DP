@@ -1,0 +1,44 @@
+body {
+
+	font-family: sans-serif;
+	font-size: 130%;
+	text-align: center;
+}
+
+.button {
+
+	color: grey;
+	width:  20%;
+	float: center;
+	width: 20%;
+	font-size: 50%;
+}
+
+#Title {
+	font-size: 110%;
+	font-weight: bold;
+}
+
+#login {
+	font-size:90%;
+}
+
+#description {
+	font-weight: bold;
+}
+
+#infobox {
+	width:100%;
+	float: left;
+	background-color: wh;
+
+}
+
+#icons {
+	align-content: center;
+
+}
+
+table {
+	width: 100%;
+}
