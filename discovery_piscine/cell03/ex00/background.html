@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="background.css">
+</head>
+<script>
+	function changecolor()
+	{
+		const color = "#" + Math.floor(Math.random()*10000).toString(16)
+		document.body.style.backgroundColor = color;
+	}
+</script>
+
+<body>
+	<body id="button">
+	<button type="button" onclick="changecolor()">Don't Click</button> 
+
+</body>
+
+</html>
